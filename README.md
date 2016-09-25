@@ -1,11 +1,11 @@
 # Assignment 0
 **Due at 4:59pm on Monday, 9/26/2016**
 
-Name: `Benjamin Windheim`
+Name: Benjamin Windheim
 
-ONID ID: `windheib`
+ONID ID: windheib
 
-Link to my CS 290 page: `CS290_PAGE_URL`
+Link to my CS 290 page: http://web.engr.oregonstate.edu/~windheib/cs290/index.html
 
 This assignment is intended to get you up and running with some of the tools we'll be using in this course and also to get you to start using HTML.  It should be very straightforward.  It has two parts.
 
